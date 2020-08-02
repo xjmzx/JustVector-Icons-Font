@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<path id="Retweet" d="M23.102,76.5c-1.854,0-3.361-1.513-3.361-3.372V45.664L5,45.657l20.029-21.924l20.037,21.931H30.305v20.235
-	h15.85L56.541,76.5H23.102z M95,54.344H80.254V26.872c0-1.859-1.508-3.372-3.361-3.372H43.461L53.84,34.101h15.848v20.235
-	l-14.752,0.008l20.035,21.927L95,54.344z"/>
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Retweet" transform="matrix(1.56991,0,0,1.56991,-28.3785,-27.6966)">
+        <path d="M23.102,76.5C21.248,76.5 19.741,74.987 19.741,73.128L19.741,45.664L30.305,45.664L30.305,65.899L56.541,76.5L23.102,76.5ZM69.688,54.336L80.254,54.344L80.254,26.872C80.254,25.013 78.746,23.5 76.893,23.5L43.461,23.5L69.688,34.101L69.688,54.336Z" style="fill-rule:nonzero;"/>
+    </g>
 </svg>

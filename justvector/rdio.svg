@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<path id="Rdio" d="M82.748,44.808c0.248,1.697,0.377,3.43,0.377,5.195c0,20.71-17.488,37.497-39.066,37.497
-	C22.49,87.5,5,70.713,5,50.003C5,29.29,22.49,12.5,44.059,12.5c4.232,0,8.307,0.654,12.123,1.847l0.008,22.665
-	c0,0-11.641-6.373-22.049,1.104c-10.408,7.473-8.449,15.311-8.449,15.311s0.486,12.387,15.174,12.387
-	c16.422,0,21.074-14.957,21.074-14.957V16.665c3.168,1.563,6.111,3.525,8.939,5.73c6.982,4.318,14.236,7.107,22.531,6.895
-	c0,0,1.59-0.342,1.59,2.816c0,1.718-0.611,3.677-2.326,5.52C92.674,37.626,89.41,42.503,82.748,44.808"/>
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path id="Rdio" d="M83.125,50.003C83.125,70.713 65.637,87.5 44.059,87.5C22.49,87.5 5,70.713 5,50.003C5,29.29 22.49,12.5 44.059,12.5C48.291,12.5 52.366,13.154 56.182,14.347C56.182,14.347 44.549,30.639 34.141,38.116C23.733,45.589 25.692,53.427 25.692,53.427C25.692,53.427 26.178,65.814 40.866,65.814C42.63,65.814 61.94,16.665 61.94,16.665" style="fill-rule:nonzero;"/>
 </svg>

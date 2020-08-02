@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<path id="Digg" style="fill-rule:evenodd;clip-rule:evenodd;" d="M21,18v16H5v0.68v7.545v15.381l0,0V66l0,0l0,0h9.373l0,0h6.338l0,0
-	H30V42.395v-8.874V18H21z M14,58V42h7v16H14z M32,34h9v32h-9V34z M32,18h9v9h-9V18z M69,34L69,34H45v8.395l0,0V66h15v7H45v9h15.007
-	H69V66.374v-9.059V34L69,34z M54,58V42h6v16H54z M95,34H71l0,0l0,0v23.605V66h16v7H71v9h15.744H95v-9.594v-5.927v-8.874V42.395l0,0
-	V34z M87,58h-7V42h7V58z"/>
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path id="Digg" d="M20,3L20,19L4,19L4,82L29,82L29,3L20,3ZM13,74L13,27L20,27L20,74L13,74ZM32,19L41,19L41,82L32,82L32,19ZM32,3L41,3L41,9L32,9L32,3ZM69,19L45,19L45,82L60,82L60,89L60.007,98L69,98L69,19ZM54,74L54,27L60,27L60,74L54,74ZM96,19L72,19L72,82L88,82L88,89L87.744,98L96,98L96,19ZM88,74L81,74L81,27L88,27L88,74Z" style="fill:rgb(255,0,0);"/>
 </svg>
